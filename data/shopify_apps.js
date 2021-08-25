@@ -2332,5 +2332,13 @@ var SHOPIFY_APPS = [
         app_store_url: "https://apps.shopify.com/cucheng",
         website_url: "https://www.cjdropshipping.com",
         script_pattern: "app.cjdropshipping.",
+    },
+    {
+        name: "Tok Reviews",
+        short_description: "Let your clients add their TikTok to your products",
+        app_store_url: "https://apps.shopify.com/tok-reviews",
+        website_url: "https://hustlinemedia.com/tok-reviews",
+        script_pattern: "tokreviews.hustlinemedia.com",
+        category: "Sales",
     }
 ];
